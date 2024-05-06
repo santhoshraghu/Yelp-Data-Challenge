@@ -1,9 +1,7 @@
 # Yelp-Data-Challenge
-## README: Yelp Data Challenge - Business Attribute Prediction
-
 The goal was to predict business attributes utilizing textual information extracted from reviews and tips. Leveraging natural language processing (NLP) techniques, the project aimed to uncover patterns and sentiments correlating with various business characteristics. By employing advanced machine learning algorithms, the study aimed to offer actionable recommendations for businesses based on insights derived from Yelp's extensive dataset.
 
-### Methodology Summary:
+
 1. **Data Loading & Text Pre-processing**:
    - Loaded dataset from JSON files using pandas.
    - Conducted basic pre-processing such as handling missing values, filtering data, and splitting into train and test sets.
